@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; max-width: 640px; margin: 2rem auto; padding: 0 1rem; }
+form { display: flex; flex-direction: column; gap: .5rem; margin-bottom: 1rem; }
+input, textarea, button { padding: .5rem; font: inherit; }
+.note { border: 1px solid #ccc; padding: .75rem; margin-bottom: .5rem; border-radius: 4px; }
+.note h3 { margin: 0 0 .25rem; }
+.error { color: #b00020; }
+.row { display: flex; gap: .5rem; }
